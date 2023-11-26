@@ -1,1 +1,0 @@
-/usr/sbin/fan-control.py

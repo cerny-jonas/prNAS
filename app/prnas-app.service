@@ -5,7 +5,7 @@ After=network-online.target
 
 [Service]
 Type=simple
-WorkingDirectory=/srv/http/prnas-app/
+WorkingDirectory=/srv/http/prNAS-app/
 # ExecStart=npx next start
 ExecStart=npx next dev
 User=nodejs

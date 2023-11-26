@@ -1,0 +1,12 @@
+[Unit]
+Description=Starts a fan controlling python script
+
+[Service]
+Type=simple
+WorkingDirectory=/usr/sbin/
+ExecStart=python3 fan-control.py
+Restart=on-failure
+RestartSec=30
+
+[Install]
+WantedBy=multi-user.target

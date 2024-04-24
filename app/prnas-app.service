@@ -6,12 +6,12 @@ After=network-online.target
 [Service]
 Type=simple
 WorkingDirectory=/srv/http/prNAS-app/
-# ExecStart=npx next start
-ExecStart=npx next dev
+ExecStart=npx next start
 User=nodejs
 Group=nodejs
 Restart=on-failure
 RestartSec=30
+Nice=19
 
 [Install]
 WantedBy=multi-user.target

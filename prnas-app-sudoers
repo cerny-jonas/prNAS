@@ -1,0 +1,15 @@
+nodejs ALL=(ALL) NOPASSWD: /usr/bin/systemctl start prnas-app.service
+nodejs ALL=(ALL) NOPASSWD: /usr/bin/systemctl stop prnas-app.service
+nodejs ALL=(ALL) NOPASSWD: /usr/bin/systemctl enable prnas-app.service
+nodejs ALL=(ALL) NOPASSWD: /usr/bin/systemctl disable prnas-app.service
+nodejs ALL=(ALL) NOPASSWD: /usr/bin/systemctl restart prnas-app.service
+nodejs ALL=(ALL) NOPASSWD: /usr/sbin/mdadm -D /dev/md0
+nodejs ALL=(ALL) NOPASSWD: /usr/bin/pdbedit -L
+nodejs ALL=(ALL) NOPASSWD: /usr/sbin/useradd
+nodejs ALL=(ALL) NOPASSWD: /usr/sbin/chpasswd
+nodejs ALL=(ALL) NOPASSWD: /usr/bin/smbpasswd
+nodejs ALL=(ALL) NOPASSWD: /usr/bin/killall
+nodejs ALL=(ALL) NOPASSWD: /usr/sbin/userdel
+nodejs ALL=(ALL) NOPASSWD: /usr/bin/chmod
+nodejs ALL=(ALL) NOPASSWD: /usr/sbin/reboot
+nodejs ALL=(ALL) NOPASSWD: /usr/sbin/usermod

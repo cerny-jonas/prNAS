@@ -1,0 +1,59 @@
+TOTAL
+2x M3x16mm bolts
+4x M4x25mm bolts
+23x M5x20mm bolts
+11x M5x25mm bolts
+
+2x M3 nuts
+4x M4 nuts
+28x M5 nuts
+
+4x M3 washers
+4x M4 washers
+34x M5 washers
+
+10x ∅10x4m magnets
+
+-------------------------------
+
+Base:
+4x M5x20mm + washers & nuts
+
+Base Feet: x4
+1x M4x25mm + washers & nuts
+
+RPi Bracket: x2
+2x M5x20mm + washers & nuts
+
+Hub Block:
+4x M5x20mm + washers & nuts
+
+Hub Bracket:
+2x M5x20mm + washers & nuts
+
+Disk Bracket:
+2x M5x25mm + washers & nuts
+
+Back Wall:
+3x M5x20mm + washers & nuts
+
+Fan:
+2x M3x16mm + washers & 2x nuts
+
+Front Wall:
+4x M5x20mm + washers & nuts
+
+Back Roof:
+6x M5x25mm + washers
+3x M5 nuts
+
+Front Roof:
+3x M5x25mm + washers
+
+Step Up Holder
+2x M5x20mm + washers & nuts
+
+-------------------------------
+
+Magnetic Panel
+10x ∅10x4m magnets

@@ -1,0 +1,17 @@
+[Unit]
+Description=Starts prnas-app nodejs server
+Requires=network-online.target
+After=network-online.target
+
+[Service]
+Type=simple
+WorkingDirectory=/srv/http/prNAS-app/
+ExecStart=npx next start
+User=nodejs
+Group=nodejs
+Restart=on-failure
+RestartSec=30
+Nice=19
+
+[Install]
+WantedBy=multi-user.target

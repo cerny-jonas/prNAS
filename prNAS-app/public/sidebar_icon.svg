@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="101.27403"
+   height="101.27403"
+   viewBox="0 0 101.27404 101.27403"
+   version="1.1"
+   id="svg1"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <circle
+     style="display:inline;fill:none;stroke:#ffffff;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;paint-order:markers fill stroke"
+     id="path1"
+     cx="50.637012"
+     cy="50.637012"
+     r="45.637012" />
+  <path
+     style="display:inline;fill:none;stroke:#ffffff;stroke-width:10;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;paint-order:markers fill stroke"
+     id="path2"
+     d="m 49.999997,16.757938 28.788466,16.62103 -10e-7,33.242058 -28.788467,16.621028 -28.788466,-16.62103 1e-6,-33.242057 z"
+     transform="matrix(1.0428148,0,0,1.0428148,-1.5037252,-1.5037252)" />
+  <path
+     id="rect3"
+     style="fill:#ffffff;stroke:#ffffff;stroke-width:4;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;paint-order:markers fill stroke"
+     d="M 52.637012,22.434283 V 78.839741 L 80.83974,50.637012 Z" />
+</svg>

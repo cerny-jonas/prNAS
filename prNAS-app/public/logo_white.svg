@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="621"
+   height="321.5871"
+   viewBox="0 0 621 321.5871"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.3 (0e150ed6c4, 2023-07-21)"
+   sodipodi:docname="logo.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     inkscape:zoom="0.62239581"
+     inkscape:cx="390.42679"
+     inkscape:cy="462.72805"
+     inkscape:window-width="1920"
+     inkscape:window-height="1025"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g21"
+     showgrid="false">
+    <inkscape:grid
+       id="grid1"
+       units="px"
+       originx="-79.5"
+       originy="-366.9129"
+       spacingx="10"
+       spacingy="10"
+       empcolor="#0099e5"
+       empopacity="0.30196078"
+       color="#0099e5"
+       opacity="0.14901961"
+       empspacing="2"
+       dotted="false"
+       gridanglex="30"
+       gridanglez="30"
+       visible="false" />
+  </sodipodi:namedview>
+  <defs
+     id="defs1" />
+  <g
+     inkscape:groupmode="layer"
+     id="g21"
+     inkscape:label="color"
+     transform="translate(-79.5,-18.912903)">
+    <path
+       style="fill:#f9f9f9;stroke:#f9f9f9;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none"
+       d="M 700,20 H 580 v 160 h 80 v 40 H 560 v 40 H 700 V 140 H 620 V 60 h 80 z"
+       id="path15"
+       sodipodi:nodetypes="ccccccccccccc" />
+    <path
+       style="fill:#f9f9f9;stroke:#f9f9f9;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;paint-order:markers fill stroke"
+       d="m 560,20 v 240 h -40 v -80 h -60 v -40 h 60 V 60 H 460 V 20 Z"
+       id="path16"
+       sodipodi:nodetypes="ccccccccccc" />
+    <path
+       style="fill:#f9f9f9;stroke:#f9f9f9;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;paint-order:markers fill stroke"
+       d="m 460,20 h -40 v 240 h 40 z"
+       id="path17"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       style="fill:#f9f9f9;stroke:#f9f9f9;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;paint-order:markers fill stroke"
+       d="M 420,140 280,20 v 240 h 40 V 100 l 100,80 z"
+       id="path18" />
+    <path
+       style="fill:#f9f9f9;stroke:#f9f9f9;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;paint-order:markers fill stroke"
+       d="m 280,140 h -40 l -20,20 v -20 h -40 v 120 h 40 v -60 l 20,-20 h 40 z"
+       id="path19" />
+    <path
+       style="fill:#f9f9f9;stroke:#f9f9f9;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;paint-order:markers fill stroke"
+       d="M 180,160 160,140 H 80 v 200 h 40 V 180 h 40 l 20,20 z"
+       id="path20" />
+    <path
+       style="fill:#f9f9f9;stroke:#f9f9f9;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;paint-order:markers fill stroke"
+       d="m 180,200 -20,20 h -40 v 40 h 40 l 20,-20 z"
+       id="path21"
+       sodipodi:nodetypes="ccccccc" />
+  </g>
+</svg>
